@@ -1,4 +1,4 @@
-# Putting It All Together Project on [Name of Research Project]
+# Putting It All Together Project on Age and TikTok Use
 
 # Introduction
 
@@ -6,12 +6,12 @@ Throughout the the term, you will be working to build up an analysis of a specif
 
 ## Research Topic: 
 
-Describe research topic
+We will use recent data from the Pew Research Center to examine the relationship between age and TikTok usage. We will also examine how this relationship varies by employment status?
 
 ### Research questions
 
-1. x related to y
-2. contextual variable
+1. How does age affect the likelihood of TikTok usage?
+2. How is the relationship between age and TikTok usage 
 
 ## Technical Details
 
